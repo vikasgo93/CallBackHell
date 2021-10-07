@@ -1,0 +1,7 @@
+.mid {
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20%;
+    font-size: 1.5rem;
+}
