@@ -1,6 +1,6 @@
 let val = '';
 let text = document.createElement('div'); 
-text.innerHTML = `<h1>${val}</h1>`;
+text.classList.add('mid'); 
 document.body.append(text);
 console.log(val);
 
